@@ -1,5 +1,7 @@
 # Hi there, we're Atama :wave:
 
-We'll publish more information about our open source projects here shortly.
+Welcome to the public repositories of Atama!
 
-For now, check out our [website](https://www.atama.co).
+If you are interested in getting access to the application code in our private repositories, please [create a Github issue in this repository](https://github.com/AtamaCo/.github/issues) and we will reach out to you with any questions we have prior to giving you access!
+
+Thanks!
